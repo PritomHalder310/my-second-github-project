@@ -2,5 +2,11 @@ nav li a {
     text-decoration: none;
 }
 nav li {
+ 
     list-style: square;
+    margin: 30px
+    ;
 }
+ nav  li a:hover {
+    color: rgb(218, 89, 223); background-color: rgb(17, 204, 73);
+} 
